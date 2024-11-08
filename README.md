@@ -7,7 +7,7 @@ SPDX-FileContributor: Remco van 't Veer <remco@jomco.nl>
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
-# Clojure iSHARE JWT library
+# BDI Authorization Register
 
 > [!WARNING]
 > This is an archived repository and no longer maintained.
